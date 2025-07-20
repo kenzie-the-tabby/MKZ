@@ -1,0 +1,2 @@
+# MKZ
+mkz-coin-assets
